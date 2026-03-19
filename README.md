@@ -51,6 +51,22 @@ Go to `http://localhost:3000`
 
 ---
 
+## API Routes
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/api/chat` | POST | Streaming chat (SSE) — chatbot widget |
+| `/api/contact` | POST | Contact form submission — validates, responds, emails |
+| `/api/escalate` | POST | Manual escalation trigger by ticket ID |
+
+## Tech Stack
+
+- **Framework**: Next.js 14 (App Router)
+- **AI**: Anthropic Claude (claude-sonnet-4-6)
+- **Email**: Nodemailer + Gmail SMTP
+- **Styling**: Tailwind CSS
+- **Language**: TypeScript
+
 ## How to test
 
 1. Open the chat widget (bottom right) and send a message
