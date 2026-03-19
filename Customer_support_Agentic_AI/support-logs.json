@@ -1,0 +1,114 @@
+[
+  {
+    "id": "TKT-MMX25OTV-LS6LEX",
+    "timestamp": "2026-03-19T05:57:10.004Z",
+    "customerName": "Aditya",
+    "customerEmail": "aarrkk.aditya@gmail.com",
+    "subject": "Refund Request",
+    "category": "refund",
+    "message": "fhjkzk",
+    "aiResponse": "Hi Aditya! 👋\n\nI understand you'd like to discuss a refund, and I want to make sure we handle this properly for you.\n\nHere's our general refund process:\n\n1. **Within 30 days of purchase** — Full refunds are typically processed without issue.\n2. **30-90 days** — Partial refunds or account credits may be available depending on usage.\n3. **Processing time** — Approved refunds appear in your account within 5-10 business days.\n\n⚠️ Since refund requests require account verification, I'm flagging this for our billing team to review your specific case. A human agent will reach out to you within 2-4 hours with next steps.\n\nIn the meantime, could you provide your order/transaction ID? This will help speed up the process.\n\nIs there anything else I can assist you with?",
+    "confidence": 0.6,
+    "suggestedActions": [
+      "Prepare your order/transaction ID",
+      "Review the refund policy in our Help Center"
+    ],
+    "emailSent": false,
+    "escalated": true,
+    "escalationReason": "Auto-detected",
+    "channel": "contact"
+  },
+  {
+    "id": "TKT-MMX2D2CL-UASMSW",
+    "timestamp": "2026-03-19T06:02:54.118Z",
+    "customerName": "Aditya",
+    "customerEmail": "aarrkk.aditya@gmail.com",
+    "subject": "Refund Request",
+    "category": "refund",
+    "message": "I have problem with the refund and i want to know the refund policy of my product that i have bought",
+    "aiResponse": "Hi Aditya! 👋\n\nI understand you'd like to discuss a refund, and I want to make sure we handle this properly for you.\n\nHere's our general refund process:\n\n1. **Within 30 days of purchase** — Full refunds are typically processed without issue.\n2. **30-90 days** — Partial refunds or account credits may be available depending on usage.\n3. **Processing time** — Approved refunds appear in your account within 5-10 business days.\n\n⚠️ Since refund requests require account verification, I'm flagging this for our billing team to review your specific case. A human agent will reach out to you within 2-4 hours with next steps.\n\nIn the meantime, could you provide your order/transaction ID? This will help speed up the process.\n\nIs there anything else I can assist you with?",
+    "confidence": 0.6,
+    "suggestedActions": [
+      "Prepare your order/transaction ID",
+      "Review the refund policy in our Help Center"
+    ],
+    "emailSent": false,
+    "escalated": true,
+    "escalationReason": "Auto-detected",
+    "channel": "contact"
+  },
+  {
+    "id": "TKT-MMX2NOC0-1630CE",
+    "timestamp": "2026-03-19T06:11:09.169Z",
+    "customerName": "Aditya",
+    "customerEmail": "aarrkk.aditya@gmail.com",
+    "subject": "Refund Request",
+    "category": "refund",
+    "message": "i have to find refund",
+    "aiResponse": "Hi Aditya! 👋\n\nI understand you'd like to discuss a refund, and I want to make sure we handle this properly for you.\n\nHere's our general refund process:\n\n1. **Within 30 days of purchase** — Full refunds are typically processed without issue.\n2. **30-90 days** — Partial refunds or account credits may be available depending on usage.\n3. **Processing time** — Approved refunds appear in your account within 5-10 business days.\n\n⚠️ Since refund requests require account verification, I'm flagging this for our billing team to review your specific case. A human agent will reach out to you within 2-4 hours with next steps.\n\nIn the meantime, could you provide your order/transaction ID? This will help speed up the process.\n\nIs there anything else I can assist you with?",
+    "confidence": 0.6,
+    "suggestedActions": [
+      "Prepare your order/transaction ID",
+      "Review the refund policy in our Help Center"
+    ],
+    "emailSent": false,
+    "escalated": true,
+    "escalationReason": "Auto-detected",
+    "channel": "contact"
+  },
+  {
+    "id": "TKT-MMX2O2AU-TMYSZY",
+    "timestamp": "2026-03-19T06:11:27.270Z",
+    "customerName": "Jane",
+    "customerEmail": "jane@test.com",
+    "subject": "Billing",
+    "category": "billing",
+    "message": "I was charged twice",
+    "aiResponse": "Hi Jane! 👋\n\nThank you for reaching out about your billing concern! I completely understand how important it is to have clarity on your charges.\n\nI've reviewed the common billing scenarios, and here's what I can help with:\n\n1. **Subscription charges** — Our billing cycles are monthly, and charges typically appear 1-2 business days after the renewal date.\n2. **Unexpected charges** — Sometimes prorated amounts appear when you upgrade or change your plan mid-cycle.\n3. **Invoice requests** — You can download invoices directly from your account settings under Billing → Invoice History.\n\nIf you need a specific charge investigated, please share the charge date and amount. Our billing team can look into it within 24 hours.\n\nIs there anything else I can help you with?",
+    "confidence": 0.88,
+    "suggestedActions": [
+      "Check your billing dashboard for invoice details",
+      "Contact billing@support.com for specific charge inquiries"
+    ],
+    "emailSent": false,
+    "escalated": false,
+    "channel": "contact"
+  },
+  {
+    "id": "TKT-MMX2ZCM2-DLYR9D",
+    "timestamp": "2026-03-19T06:20:13.853Z",
+    "customerName": "Aditya",
+    "customerEmail": "aarrkk.aditya@gmail.com",
+    "subject": "Billing Question",
+    "category": "billing",
+    "message": "Tell me",
+    "aiResponse": "Hi Aditya! 👋\n\nThank you for reaching out about your billing concern! I completely understand how important it is to have clarity on your charges.\n\nI've reviewed the common billing scenarios, and here's what I can help with:\n\n1. **Subscription charges** — Our billing cycles are monthly, and charges typically appear 1-2 business days after the renewal date.\n2. **Unexpected charges** — Sometimes prorated amounts appear when you upgrade or change your plan mid-cycle.\n3. **Invoice requests** — You can download invoices directly from your account settings under Billing → Invoice History.\n\nIf you need a specific charge investigated, please share the charge date and amount. Our billing team can look into it within 24 hours.\n\nIs there anything else I can help you with?",
+    "confidence": 0.88,
+    "suggestedActions": [
+      "Check your billing dashboard for invoice details",
+      "Contact billing@support.com for specific charge inquiries"
+    ],
+    "emailSent": false,
+    "escalated": false,
+    "channel": "contact"
+  },
+  {
+    "id": "TKT-MMX3H8TG-GIRYJL",
+    "timestamp": "2026-03-19T06:34:08.746Z",
+    "customerName": "Aditya",
+    "customerEmail": "aarrkk.aditya@gmail.com",
+    "subject": "Refund Request",
+    "category": "refund",
+    "message": "I want to know my refund policy of product that i have bought",
+    "aiResponse": "Hi Aditya! 👋\n\nI understand you'd like to discuss a refund, and I want to make sure we handle this properly for you.\n\nHere's our general refund process:\n\n1. **Within 30 days of purchase** — Full refunds are typically processed without issue.\n2. **30-90 days** — Partial refunds or account credits may be available depending on usage.\n3. **Processing time** — Approved refunds appear in your account within 5-10 business days.\n\n⚠️ Since refund requests require account verification, I'm flagging this for our billing team to review your specific case. A human agent will reach out to you within 2-4 hours with next steps.\n\nIn the meantime, could you provide your order/transaction ID? This will help speed up the process.\n\nIs there anything else I can assist you with?",
+    "confidence": 0.6,
+    "suggestedActions": [
+      "Prepare your order/transaction ID",
+      "Review the refund policy in our Help Center"
+    ],
+    "emailSent": false,
+    "escalated": true,
+    "escalationReason": "Auto-detected",
+    "channel": "contact"
+  }
+]

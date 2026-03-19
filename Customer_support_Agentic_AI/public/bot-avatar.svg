@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="20" fill="url(#bg)"/>
+  <!-- Head -->
+  <rect x="16" y="14" width="32" height="26" rx="8" fill="white" opacity="0.95"/>
+  <!-- Eyes -->
+  <circle cx="26" cy="26" r="3.5" fill="#6366f1"/>
+  <circle cx="38" cy="26" r="3.5" fill="#6366f1"/>
+  <!-- Mouth -->
+  <path d="M24 33 Q32 38 40 33" stroke="#6366f1" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Antenna -->
+  <line x1="32" y1="14" x2="32" y2="8" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="32" cy="6" r="3" fill="#a78bfa"/>
+  <!-- Body -->
+  <rect x="22" y="42" width="20" height="10" rx="5" fill="white" opacity="0.9"/>
+  <line x1="32" y1="40" x2="32" y2="42" stroke="white" stroke-width="2" opacity="0.9"/>
+</svg>
