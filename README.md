@@ -4,13 +4,7 @@ A customer support chatbot that replies to users and sends them an email with th
 
 ---
 
-# Demo
 
-<video width="600" controls>
-  <source src="Smaple vdo/Agentic AI.mp4" type="video/mp4">
-</video>
-
----
 
 ## What it does
 
